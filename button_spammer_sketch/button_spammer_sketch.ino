@@ -1,5 +1,5 @@
 #define MAX_SCORE 2
-#define PLAY_TIME 2.0
+#define PLAY_TIME 10.0
 
 #define switchPinPlayer1 7
 #define switchPinPlayer2 8
